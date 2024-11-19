@@ -1,6 +1,6 @@
 # POLLS
 
-DJANGO tutorial from (django documentation[https://docs.djangoproject.com/en/5.1/intro/tutorial01/]).
+Django walkthrough tutorial from [django documentation](https://docs.djangoproject.com/en/5.1/intro/tutorial01/).
 
 ## Managing virtual environments
 
