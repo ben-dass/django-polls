@@ -25,3 +25,9 @@ deactivate
 # or
 venv-exit
 ```
+
+Instaling Django
+
+```bash
+python -m pip install Django
+```
